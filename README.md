@@ -1,1 +1,1 @@
-# Sedona-adaptive-layout
+# sedona-adaptive-layout
